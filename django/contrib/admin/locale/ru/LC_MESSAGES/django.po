@@ -297,13 +297,13 @@ msgstr ""
 "следующих связанных объектов: %(related_objects)s"
 
 msgid "Django site admin"
-msgstr "Административный сайт Django"
+msgstr "Административный сайт Санэпид"
 
 msgid "Django administration"
-msgstr "Администрирование Django"
+msgstr "Администрирование Санэпид"
 
 msgid "Site administration"
-msgstr "Администрирование сайта"
+msgstr "Администрирование сайта Службы санитарно-эпидемиологического благополучия"
 
 msgid "Log in"
 msgstr "Войти"
